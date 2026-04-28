@@ -1,161 +1,83 @@
-<div align="center">
-
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="280"/>
-
-# Hi there, I'm Mohamed Hazem 👋
-
-<img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=28&center=true&vCenter=true&width=700&height=50&lines=Data+Scientist+%7C+ML+Engineer;Data+Analyst+%7C+BI+Enthusiast;Deep+Learning+%7C+Computer+Vision;NLP+%7C+MLOps+Learner;Turning+Data+into+Impact" />
-
-### AI Graduate passionate about Machine Learning, Analytics, and building real-world intelligent solutions.
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile%20Views&color=0e75b6&style=flat)
-
+<div align=center>
+    <img alt="gif" align="center" src="https://github.com/Moataz-Elmesmary/Moataz-Elmesmary/blob/main/git.gif" width=300 height=300/>
 </div>
 
----
-
-## 👨‍💻 About Me
-
-🎓 Bachelor's in Computer Science – Artificial Intelligence  
-🏫 Misr University for Science and Technology (MUST)  
-📍 Giza, Egypt  
-
-💡 AI & Data Science graduate with hands-on experience in building ML / DL models for prediction, classification, NLP, and computer vision.
-
-🚀 Passionate about solving business problems using:
-- Machine Learning  
-- Data Analysis  
-- Business Intelligence  
-- Deep Learning  
-- Automation  
-
-📈 Always learning and improving in AI, MLOps, and Data Products.
-
----
-
-## 🛠 Tech Stack
-
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-
-### 📊 Data Analysis
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-black?style=flat)
-![Seaborn](https://img.shields.io/badge/Seaborn-teal?style=flat)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
-
-### 🤖 Machine Learning
-![Scikit Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
-
-### 🧠 AI Fields
-![NLP](https://img.shields.io/badge/NLP-blue?style=flat)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-green?style=flat)
-![MLOps](https://img.shields.io/badge/MLOps-orange?style=flat)
-
-### ⚙ Tools
-![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-
----
-
-## 💼 Experience
-
-### AI & Data Science Intern — DEPI
-📅 Nov 2024 – May 2025
-
-- Applied MLOps practices using MLflow & Hugging Face  
-- Built GANs and fine-tuned Transformer models  
-- Worked on Prompt Engineering & GenAI use cases
-
-### Machine Learning Intern — NeuronetiX
-📅 Aug 2024 – Sep 2024
-
-- Built classification & regression models  
-- Designed clustering pipelines  
-- Documented reusable notebooks
-
-### Data Science Intern — NTI
-📅 Aug 2024 – Oct 2024
-
-- Data cleaning & EDA  
-- ML model development  
-- Insight reporting & visualization
-
----
-
-## 🚀 Featured Projects
-
-### 🧍 Pedestrian Instance Segmentation
-Mask R-CNN on Penn-Fudan dataset  
-✔ mAP = 0.753
-
-### 🩺 Oral Lesions Detection
-CNN for medical imaging classification  
-✔ Accuracy = 97%
-
-### 🎗 Breast Cancer Prediction
-Compared 5 ML models for diagnosis prediction
-
-### 😊 Sentiment Analysis
-LSTM on IMDB Reviews  
-✔ Accuracy = 95.6%
-
-### 📊 IBM Attrition Analysis
-EDA + Visualization for employee turnover factors
-
----
-
-## 📜 Certifications
-
-- AI & Data Science Internship – DEPI  
-- AI Certificate – NTI  
-- Deep Learning Specialization – Coursera  
-- Machine Learning – Coursera  
-- SQL Intermediate – DataCamp  
-- Time Series Analysis – 365 Data Science  
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight" width="48%" />
-
+<div align=center>
+    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Mohamed+Hazem+%F0%9F%91%8B;Data+Analyst+%26+ML+Engineer;Python+Enthusiast+%F0%9F%90%8D;Deep+Learning+Learner;CS+Graduate" alt="Headline" />
 </div>
 
----
+<h3 align="center">Computer Science Graduate | Specialized in Artificial Intelligence & Data Science</h3>
 
-## 📊 Most Used Languages
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohamed-hazem-0513a82b5/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0e75b6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+  </a>
+  <a href="https://www.kaggle.com/mohamedhazem346/code" target="_blank">
+    <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge">
+  </a>
+</p>
+
+I am a Computer Science graduate with a 3.63 GPA, deeply passionate about **Data Engineering**, **Machine Learning**, and **Artificial Intelligence**. I have hands-on experience in building predictive models, such as Mask R-CNN for segmentation and medical image classification.
+
+**Core Expertise:**
+* **Mathematics:** Advanced Calculus, Linear Algebra, Statistics & Probability.
+* **Data Science:** Data Wrangling, Aggregation Pipelines, and Exploratory Data Analysis (EDA).
+* **AI/ML:** Deep Learning architectures, Computer Vision, and Sentiment Analysis.
+
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</p>
+
+<h3> 🛠 &nbsp;Tech Stack </h3>
+
+- 💻 **Programming & Core:**
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+- 📊 **Data Science & ML:**
+  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+  ![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white)
+  ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+  ![OpenCV](https://img.shields.io/badge/-OpenCV-333333?style=flat&logo=OpenCV)
+
+- 🛢 **Databases:**
+  ![SQL Server](https://img.shields.io/badge/-SQL%20Server-333333?style=flat&logo=microsoft-sql-server)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+- ⚙️ **Tools:**
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+  ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
+  ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white)
+
+<h3 align="left">📫 Connect with me:</h3>
+
+- **Phone:** 01007107644
+- **Email:** mohammedhazemmohamed54@gmail.com
+- **LinkedIn:** [Mohamed Hazem](https://www.linkedin.com/in/mohamed-hazem-0513a82b5/)
+- **Kaggle:** [Mohamed Hazem - Notebooks](https://www.kaggle.com/mohamedhazem346/code)
+
+<br>
+
+### 📊 GitHub Activity 
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Mohamedhazem346&hide_border=true&show_icons=true&theme=tokyo-night" alt="Mohamed's GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedhazem346&hide_border=true&langs_count=8&layout=compact&theme=tokyo-night" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+[![Mohamed's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mohamedhazem346&theme=tokyo-night)](https://github.com/Mohamedhazem346)
+
+<hr>
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight" width="45%" />
-
+  <p><i>"Passionate about turning data into intelligence."</i></p>
 </div>
-
----
-
-## 🌍 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](YOUR_KAGGLE)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:mohammedhazemmohamed54@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/YOURUSERNAME)
-
----
-
-<div align="center">
-
-### 💡 “Data beats opinion.”
-
-</div>
-me = MohamedHazem() 
