@@ -61,21 +61,4 @@ I am a CS Graduate (GPA 3.63) passionate about the intersection of **Data Intell
 
 <br>
 
-### 📊 Performance & Stats 
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Mohamedhazem346&hide_border=true&show_icons=true&theme=tokyo-night" alt="Mohamed's Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedhazem346&hide_border=true&langs_count=8&layout=compact&theme=tokyo-night" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
-<hr>
-
-<div align="center">
-  <p><i>"Bridging the gap between raw data and intelligent insights."</i></p>
-</div>
