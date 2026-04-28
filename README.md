@@ -1,12 +1,12 @@
 <div align=center>
-    <img alt="Data Analytics GIF" align="center" src="https://github.com/Moataz-Elmesmary/Moataz-Elmesmary/blob/main/git.gif" width=300 height=300/>
+    <img alt="Data Science GIF" align="center" src="https://github.com/Moataz-Elmesmary/Moataz-Elmesmary/blob/main/git.gif" width=300 height=300/>
 </div>
 
 <div align=center>
-    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Mohamed+Hazem+%F0%9F%91%8B;Data+Analyst+%26+BI+Developer;Power+BI+%26+Tableau+Expert;Excel+for+Data+Analysis;Python+for+Data+Science" alt="Headline" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Mohamed+Hazem+%F0%9F%91%8B;Data+Analyst+%26+ML+Engineer;Power+BI+%26+Tableau+Enthusiast;Deep+Learning+%26+Computer+Vision;End-to-End+Data+Solutions" alt="Headline" />
 </div>
 
-<h3 align="center">Data Analyst | Business Intelligence Developer | CS Graduate</h3>
+<h3 align="center">Computer Science Graduate | Data Analysis & AI Research</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamed-hazem-0513a82b5/" target="_blank">
@@ -17,50 +17,51 @@
   </a>
 </p>
 
-I am a Computer Science graduate specializing in **Data Analysis** and **Business Intelligence**. I have a strong foundation in transforming raw data into meaningful insights using modern BI tools and advanced statistical methods.
+I am a CS Graduate (GPA 3.63) passionate about the intersection of **Data Intelligence** and **Machine Learning**. I specialize in building data-driven stories and developing intelligent models to solve complex business problems.
 
-**What I do:**
-* **Data Visualization:** Crafting interactive dashboards in **Power BI** and **Tableau**.
-* **Data Processing:** Advanced data cleaning and modeling using **Excel (Power Query)** and **SQL**.
-* **Statistical Analysis:** Applying Mathematics and Probability to drive data-informed decisions.
-* **Automation:** Streamlining data workflows using **Python**.
+**Expertise:**
+* **Data Analytics:** Advanced Dashboarding in **Power BI**, **Tableau**, and **Excel**.
+* **Machine Learning:** Predictive Modeling, **Deep Learning**, and **Computer Vision** (Mask R-CNN).
+* **Data Engineering:** SQL, MongoDB, and Aggregation Pipelines.
+* **Programming:** Python-based automation and data manipulation.
 
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </p>
 
-<h3> 📊 &nbsp;Data Analysis Tech Stack </h3>
+<h3> 🛠 &nbsp;Tech Stack </h3>
 
-- 📈 **Visualization & BI Tools:**
+- 📊 **BI & Visualization:**
   ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
   ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
   ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
-- 💻 **Data Science Languages:**
+- 🤖 **AI & Machine Learning:**
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+  ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+  ![OpenCV](https://img.shields.io/badge/-OpenCV-333333?style=flat&logo=OpenCV)
+
+- 💻 **Data Manipulation & Processing:**
   ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
   ![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white)
-  ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
-
-- 🛢 **Database Management:**
   ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
   ![SQL Server](https://img.shields.io/badge/-SQL%20Server-333333?style=flat&logo=microsoft-sql-server)
-  ![MongoDB](https://img.shields.io/badge/-NoSQL-333333?style=flat&logo=mongodb)
 
-- ⚙️ **Workflow & Version Control:**
+- ⚙️ **Tools:**
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
   ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
 
-<h3 align="left">📫 Get in Touch:</h3>
+<h3 align="left">📫 Reach Out:</h3>
 
-- **LinkedIn:** [Mohamed Hazem](https://www.linkedin.com/in/mohamed-hazem-0513a82b5/)
-- **Email:** [mohammedhazemmohamed54@gmail.com](mailto:mohammedhazemmohamed54@gmail.com)
-- **Kaggle:** [Check my Notebooks](https://www.kaggle.com/mohamedhazem346/code)
+- 📞 **Phone:** 01007107644
+- 📧 **Email:** mohammedhazemmohamed54@gmail.com
+- 🔗 **LinkedIn:** [Mohamed Hazem](https://www.linkedin.com/in/mohamed-hazem-0513a82b5/)
 
 <br>
 
-### 📈 GitHub Stats 
+### 📊 Performance & Stats 
 
 <table>
   <tr>
@@ -76,5 +77,5 @@ I am a Computer Science graduate specializing in **Data Analysis** and **Busines
 <hr>
 
 <div align="center">
-  <p><i>"Turning raw data into impactful business stories."</i></p>
+  <p><i>"Bridging the gap between raw data and intelligent insights."</i></p>
 </div>
